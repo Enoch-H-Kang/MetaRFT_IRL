@@ -7,13 +7,14 @@ This repository is a reproduction of **MRT-Rl**, primarily based on the followin
 - [unsloth](https://unsloth.ai/blog/r1-reasoning)
 
 ## Code Structure
+```
 src/
 ├── run.inpnb
 └── trl/
     └── trl/
         └── trainer/
             └── grpo_trainer.py
-
+```
 
 ## Installation
 To set up the environment, please follow the installation instructions provided by the Open-R1 repository.
