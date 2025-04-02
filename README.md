@@ -9,7 +9,7 @@ This repository is a reproduction of **MRT-Rl**, primarily based on the followin
 ## Code Structure
 ```
 src/
-├── run.inpnb
+├── DeepSeek-R1-Distill-Qwen-7B_GRPO_run.ipynb
 └── trl/
     └── trl/
         └── trainer/
