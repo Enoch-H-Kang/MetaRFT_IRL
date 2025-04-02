@@ -7,12 +7,13 @@ This repository is a reproduction of **MRT-Rl**, primarily based on the followin
 - [unsloth](https://unsloth.ai/blog/r1-reasoning)
 
 ## Code Structure
-src/ 
-├── DeepSeek-R1-Distill-Qwen-7B_GRPO_run.ipynb 
-└── trl/ 
-    └── trl/ 
-        └── trainer/ 
+src/
+├── run.inpnb
+└── trl/
+    └── trl/
+        └── trainer/
             └── grpo_trainer.py
+
 
 ## Installation
 To set up the environment, please follow the installation instructions provided by the Open-R1 repository.
